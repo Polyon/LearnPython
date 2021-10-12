@@ -42,6 +42,4 @@ class MagicForest(Scene):
             return 'Light_fountain'
 
         elif action == "stay":
-            print(dedent("""
-            
-            """))
+            pass
